@@ -1,0 +1,3 @@
+[submodule "nodejs_admin_1/Build-NodeJS-with-Mysql"]
+	path = nodejs_admin_1/Build-NodeJS-with-Mysql
+	url = https://github.com/LeQuangPhuoc2002/LMS-NodeJS.git
