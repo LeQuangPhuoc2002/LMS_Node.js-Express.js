@@ -1,4 +1,4 @@
-# LMS_Node.js&Express.js
+# Learning-Management-System_Node.js&Express.js
 My project LMS is help student register course online
 Workflow 1: Lecturer Registration and Course Management System
 Process 1
